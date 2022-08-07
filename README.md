@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://app.daily.dev/sagar_himanshu"><img src="https://api.daily.dev/devcards/7c4d89caaad245718bbdfc9ced3c3a2a.png?r=my7" width="400" alt="Himanshu Sagar's Dev Card"/></a>
+<a href="https://app.daily.dev/sagar_himanshu"><img src="https://api.daily.dev/devcards/7c4d89caaad245718bbdfc9ced3c3a2a.png?r=krh" width="400" alt="Himanshu Sagar's Dev Card"/></a>
