@@ -1,7 +1,9 @@
+
 ### Hi there 👋
 
 **I am a Software Developer**
 
+<a href="https://app.daily.dev/sagar_himanshu"><img src="https://api.daily.dev/devcards/7c4d89caaad245718bbdfc9ced3c3a2a.png?r=7j7" width="400" alt="Himanshu Sagar's Dev Card"/></a>
 - 🔭 I’m currently working on Career Planner
 - 🌱 I’m currently learning Django and Machine Learning
 - 👯 I’m looking to collaborate on open source projects in python
