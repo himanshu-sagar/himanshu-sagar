@@ -1,20 +1,26 @@
 ### Hi there 👋
 
+
+**I am a Software Developer**
+
+- 🔭 I’m currently working on Backend Development
+- 🌱 I’m currently learning Django and Machine Learning
+- 👯 I’m looking to collaborate on open source projects in python
+- 🤔 I’m looking for help with freelancing and open source
+- ⚡ Fun fact: In my free time, you'll find me playing games,listening music or watching some series.
+- 💬 I love to learn new things and always ready to help others.
+
+- 📫 How to reach me? **see links below** <br>
+<a href="https://www.linkedin.com/in/himanshu-sagar-542029184/">
+  <img align="left" alt="Himanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+
 <!--
-**himanshu-sagar/himanshu-sagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 my github stats
 
-Here are some ideas to get you started:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=himanshu-sagar&show_icons=true&theme=gotham" alt="sagar" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![](https://visitor-badge.glitch.me/badge?page_id=himanshu-sagar.himanshu-sagar)
 -->
-
-
-
-<a href="https://app.daily.dev/sagar_himanshu"><img src="https://api.daily.dev/devcards/7c4d89caaad245718bbdfc9ced3c3a2a.png?r=krh" width="400" alt="Himanshu Sagar's Dev Card"/></a>
