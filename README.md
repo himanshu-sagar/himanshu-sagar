@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 **I am a Software Developer**
 
 - 🔭 I’m currently working on Career Planner
@@ -10,7 +9,7 @@
 - ⚡ Fun fact: In my free time, you'll find me playing games,listening music or watching some series.
 - 💬 I love to learn new things and always ready to help others.
 
-- 💼 Any freelance work in Python or Backend Development? Do reach, [Email](mailto:sagarhimanshu355@gmail.com) :)
+- 💼 Any freelance work in Python or Backend Development? Do reach me at my, [Email](mailto:sagarhimanshu355@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 - **Languages and Tools:**  
@@ -26,12 +25,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sklearn/sklearn.png"></code>
 
-- 📫 How to reach me? **see links below** <br>
-<a href="https://www.linkedin.com/in/himanshu-sagar-542029184/">
-  <img align="left" alt="Himanshu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
 
