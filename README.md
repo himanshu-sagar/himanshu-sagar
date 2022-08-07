@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+<a href="https://app.daily.dev/sagar_himanshu"><img src="https://api.daily.dev/devcards/7c4d89caaad245718bbdfc9ced3c3a2a.png?r=my7" width="400" alt="Himanshu Sagar's Dev Card"/></a>
