@@ -1,9 +1,10 @@
 
 ### Hi there 👋
 
-**I am a Software Developer**
+**I am an enthusiastic data driven computer science engineer, passionate about machine learning, have experience in building AI powered right career prediction model.**
 
-<a href="https://app.daily.dev/sagar_himanshu"><img src="https://api.daily.dev/devcards/7c4d89caaad245718bbdfc9ced3c3a2a.png?r=7j7" width="400" alt="Himanshu Sagar's Dev Card"/></a>
+
+
 - 🔭 I’m currently working on Career Planner
 - 🌱 I’m currently learning Django and Machine Learning
 - 👯 I’m looking to collaborate on open source projects in python
@@ -29,7 +30,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 
 
+</a><img src="https://github-readme-stats.vercel.app/api?username=himanshu-sagar&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="Himanshu's Github stats" />
 
+<a href="https://app.daily.dev/sagar_himanshu"><img src="https://api.daily.dev/devcards/7c4d89caaad245718bbdfc9ced3c3a2a.png?r=7j7" width="400" alt="Himanshu Sagar's Dev Card"/> </a>
 
 <!--
 📈 my github stats
