@@ -1,14 +1,12 @@
 
 ### Hi there 👋
 
-**I am an enthusiastic data driven computer science engineer, passionate about machine learning, have experience in building AI powered right career prediction model.**
+**I am an enthusiastic data driven backend developer,  having experience in building AI powered right career prediction model.**
 
 
 
-- 🔭 I’m currently working on Career Planner
-- 🌱 I’m currently learning Django and Machine Learning
+- 🔭 I’m currently working on Django
 - 👯 I’m looking to collaborate on open source projects in python
-- 🤔 I’m looking for help with freelancing and open source
 - ⚡ Fun fact: In my free time, you'll find me playing games,listening music or watching some series.
 - 💬 I love to learn new things and always ready to help others.
 
