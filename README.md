@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on Flask and Django
-- 👯 I’m looking to collaborate on open source projects in python
+- 🔭 I’m currently working on Node.JS
+- 👯 I’m looking to collaborate on open source projects in python and Node.Js
 - ⚡ Fun fact: In my free time, you'll find me playing games,listening music or watching some series.
 - 💬 I love to learn new things and always ready to help others.
 
