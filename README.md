@@ -1,16 +1,16 @@
 
 ### Hi there 👋
 
-**I am an enthusiastic data driven backend developer,  having experience in building AI powered right career prediction model.**
+**I am an enthusiastic data-driven Generative AI and Backend Developer, having experience in building multiple AI-powered products.**
 
 
-
-- 🔭 I’m currently working on Node.JS
-- 👯 I’m looking to collaborate on open source projects in python and Node.Js
+- 🔭 I’m currently working on Generative AI.
+- 🧠 Have built/developed more than 8 products specially in Generative AI sector using GPT, Claude, Langchain, LlamaIndex, Speech Models(Whisper/Assembly AI), etc.
+- 👯 I’m open to collaborate on open-source projects in Generative AI, Python and Node.Js.
 - ⚡ Fun fact: In my free time, you'll find me playing games,listening music or watching some series.
 - 💬 I love to learn new things and always ready to help others.
 
-- 💼 Any freelance work in Python or Backend Development? Do reach me at my, [Email](mailto:sagarhimanshu355@gmail.com) :)
+- 💼 Any freelance work in Generative AI, Python, Node.js or Backend Development? Do reach me at my, [Email](mailto:sagarhimanshu355@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 
 - **Languages and Tools:**  
