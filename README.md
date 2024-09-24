@@ -1,4 +1,4 @@
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=himanshu-sagar)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
 
 **I am an enthusiastic data-driven Generative AI and Backend Developer, having experience in building multiple AI-powered products.**
