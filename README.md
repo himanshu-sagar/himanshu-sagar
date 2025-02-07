@@ -1,17 +1,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=himanshu-sagar)](https://github.com/ryo-ma/github-profile-trophy)
 ### Hi there 👋
+➡️ Building Tunk.ai | AI & Speech Tech Innovator
 
-**I am an enthusiastic data-driven Generative AI and Backend Developer, having experience in building multiple AI-powered products.**
+#### I specialize in AI-powered speech solutions, Generative AI, and scalable backend systems. Passionate about AI Voice Agents, NLP, and automation, I build high-performance AI products.
 
-
-- 🔭 I’m currently working on Generative AI.
-- 🧠 Have built/developed more than 8 products specially in Generative AI sector using GPT, Claude, Langchain, LlamaIndex, Speech Models(Whisper/Assembly AI), etc.
-- 👯 I’m open to collaborate on open-source projects in Generative AI, Python and Node.Js.
-- ⚡ Fun fact: In my free time, you'll find me playing games,listening music or watching some series.
-- 💬 I love to learn new things and always ready to help others.
-
-- 💼 Any freelance work in Generative AI, Python, Node.js or Backend Development? Do reach me at my, [Email](mailto:sagarhimanshu355@gmail.com) :)
-- 💬 Ask me about anything, I am happy to help;
+- 🔭 Currently leading Tunk.ai, delivering real-time speech-to-text APIs & AI-driven transcription.
+- 🛠️ Built AI-driven recruitment, customer support, and career guidance platforms using LLMs, LangChain, and Speech AI.
+- ⚡ Optimizing Whisper, GPT, and multimodal AI for fast, cost-effective, and scalable inference.
+- 🏗️ Architecting cloud-native solutions on AWS, ECS Fargate, Runpod, and GPU-based inference.
+- 💡 Exploring RAG, Retrieval-Augmented AI, and multimodal intelligence to push AI boundaries.
+- 📢 Open to collaborations in Generative AI, NLP, Python, and Next.js.
+- 🎮 Love tech, gaming, and AI discussions—always up for brainstorming ideas!
 
 - **Languages and Tools:**  
 
